@@ -15,7 +15,7 @@ const (
 	RetCodeWarningCallTimeout         = 1001
 	RetErrorCall                      = 2001
 	RetErrorResponse                  = 2002
-	RetErrorCalee                     = 2003
+	RetErrorCalee                     = 2003//被测软件的内部错误
 	RetFatalCall                      = 3001
 )
 
